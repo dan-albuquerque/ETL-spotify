@@ -39,7 +39,7 @@ Construir um pipeline ETL que:
 
 ### 1. Clone o repositório e vá para a pasta do projeto 
 ```bash
-git clone https://github.com/seu-usuario/spotify-analytics-dashboard.git
+git clone https://github.com/dan-albuquerque/ETL-spotify.git
 ```
 
 ### 2. Inicie o PostgreSQL e Metabase com Docker
