@@ -30,7 +30,7 @@ Construir um pipeline ETL que:
 │   └── dim_stats.csv
 ├── extract.py            #  Extração os dados 'Most Streamed Spotify Songs 2024.csv' e coloca no mesmo diretório
 ├── transform.ipynb       # Limpeza e criação das dimensões
-├── load_postgres.py               # Envio das dimensões para o PostgreSQL
+├── load_postgres.py      # Envio das dimensões para o PostgreSQL
 ├── requirements.txt
 ├── README.md
 ```
@@ -69,8 +69,6 @@ pip install -r requirements.txt
 python extract.py
 python load.py
 ```
-
----
 
 ## 📊 Dashboard
 
